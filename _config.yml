@@ -12,7 +12,7 @@ description: >
   Awesome site description here
 logo: "/assets/images/logo.jpg"
 baseurl: "/Jekyll-AMP" # the subpath of your site, e.g. /blog
-url: "https://uvalib.github.io" # the base hostname & protocol for your site
+url: "https://dougchestnut.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Your Name'
@@ -36,7 +36,7 @@ gems:
   - jekyll-paginate
 
 prose:
-  siteurl: 'https://uvalib.github.io/Jekyll-AMP'
+  siteurl: 'https://dougchestnut.github.io/Jekyll-AMP'
   #relativeLinks: 'http://thetaper.library.virginia.edu/links.jsonp'
   ignore:
     - .gitignore
